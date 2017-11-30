@@ -1,2 +1,1 @@
-# pagination
-# kohana 3.3
+# kohana 3.3 pagination
