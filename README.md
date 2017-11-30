@@ -3,7 +3,7 @@
 # 安装
 
 ```
-composer require "caojiabin/pagination
+composer require "caojiabin/pagination"
 ```
 
 
