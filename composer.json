@@ -1,5 +1,6 @@
 {
     "name": "caojiabin/pagination",
+    "type": "pagination",
     "description": "kohana pagination",
     "license": "MIT",
     "authors": [
