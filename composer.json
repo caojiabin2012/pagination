@@ -1,5 +1,5 @@
 {
-	"name":        "kohana/pagination",
+	"name":        "caojiabin2012/pagination",
 	"type":        "kohana-module",
 	"description": "The official Kohana module for database interactions, building queries, and prepared statements",
 	"homepage":    "http://kohanaframework.org",
