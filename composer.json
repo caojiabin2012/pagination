@@ -1,5 +1,5 @@
 {
-	"name":        "kohana/pagination",
+	"name":        "caojiabin/pagination",
 	"type":        "kohana-module",
 	"description": "The  kohana module for pagination",
 	"homepage":    "http://kohanaframework.org",
