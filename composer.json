@@ -1,18 +1,20 @@
 {
 	"name":        "caojiabin/pagination",
 	"type":        "kohana-module",
-	"description": "The  kohana module for pagination",
+	"description": "kohana-module",
 	"homepage":    "http://kohanaframework.org",
 	"license":     "BSD-3-Clause",
-	"keywords":    ["kohana", "framework", "pagination"],
+	"keywords":    ["kohana", "framework", "image"],
 	"authors": [
-        {
-            "name": "caojiabin2012",
-            "email": "caojiabin2012@gmail.com"
-        }
+		{
+			"name":     "Kohana Team",
+			"email":    "team@kohanaframework.org",
+			"homepage": "http://kohanaframework.org/team",
+			"role":     "developer"
+		}
 	],
 	"support": {
-		"issues":   "https://github.com/caojiabin2012/pagination/issues",
+		"issues":   "http://dev.kohanaframework.org",
 		"forum":    "http://forum.kohanaframework.org",
 		"irc":      "irc://irc.freenode.net/kohana",
 		"source":   "http://github.com/kohana/core"
@@ -27,6 +29,9 @@
         "kohana/unittest":     "3.3.*@dev",
         "kohana/koharness":    "*@dev"
     },
+	"suggest": {
+		"ext-gd":   "*"
+	},
 	"extra": {
 		"branch-alias": {
 			"dev-3.3/develop": "3.3.x-dev",
@@ -37,4 +42,3 @@
         }
 	}
 }
-
